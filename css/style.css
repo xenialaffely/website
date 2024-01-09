@@ -421,7 +421,7 @@ video {
     border: 2px solid black;
   }
 
-  #video {
+  video {
     display: none;
   }
   .current ul {
